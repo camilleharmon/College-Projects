@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/Lab2/Content/My_Blueprints/VR_Target.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/Lab2/Content/My_VrLevel.umap",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/Lab2/Content/My_Blueprints/AmmoPistol.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/Lab2/Content/VRTemplate/Input/IMC_Weapon_Right.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/Lab2/Content/My_Blueprints/IA_Reload_Right.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/My_Blueprints/AmmoPistol.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/My_VrLevel.umap",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/My_Blueprints/VR_Target.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/WIN_Level.umap",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/winLevel.umap",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_Mat.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/TextRenderActor_Blueprint.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/My_Blueprints/VR_Menu.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/My_Blueprints/MainMenu.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/Start_Level.umap",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/My_Blueprints/MainMenuPawn.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/start2.umap",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/My_Blueprints/Lock.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/My_Blueprints/Key.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/My_Blueprints/TextRenderActor_Blueprint.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/My_Blueprints/WIN.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/My_Blueprints/SECRET.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/FA24-HarmonC/HC_Project2/Content/My_Blueprints/Fireworks.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/Lab2/Content/My_Blueprints/IM_Reload_Right.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/IDEA310H_Lab2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/IDEA310H_Lab2/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/IDEA310H_Lab2/Content/My_Blueprints/My_Grabbable.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/IDEA310H_Lab2/Content/My_VrLevel.umap",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/IDEA310H_Lab2/Content/My_Blueprints/MaterialSphere_Blueprint.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/IDEA310H_Lab2/Content/VRTemplate/Blueprints/Projectile.uasset",
+				"C:/Users/cam_the_camel/Documents/Unreal Projects/IDEA310H_Lab2/Content/My_Blueprints/SM_Chair_Blueprint.uasset"
+			]
+		}
+	]
+}
